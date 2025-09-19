@@ -1,4 +1,4 @@
-%let path=/* Insert path to SESUG_2025 folder, example below: */
+%let path= ;/* Insert path to SESUG_2025 folder, example below: */
 /* %let path=/export/viya/homes/carleighjo.crabtree@sas.com/SESUG_MacroCS; */
  
 libname mc1 "&path";
