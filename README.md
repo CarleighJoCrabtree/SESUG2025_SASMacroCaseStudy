@@ -2,6 +2,14 @@
 
 Hello all, welcome to SESUG 2025! Within this repository you will find the presentation materials, data and programs needed for the SAS Macro Case Study HOW. 
 
+# Instructions/ About Files
+
+1. Open MCSVFLInstructions.pdf. Follow the steps to set up the VFL environment.
+2. In the SESUG_MacroCS folder, you will find the programs and data used for this talk.
+   To follow along with me, use StarterProgram.sas and Instructions.sas.
+   To view the solution, use Solution.sas
+   Note that autoexec.sas must be updated and run for the solution to work. 
+
 # SAS Macro Case Study
 
 Wednesday, 9/24
