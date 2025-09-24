@@ -42,7 +42,7 @@ quit;
 	  
 options nodate;
 ods graphics on / imagefmt=png; 
-ods pdf file="&path/case_study/1.pdf" style=meadow startpage=no nogtitle;
+ods pdf file="&path/1.pdf" style=meadow startpage=no nogtitle;
 
 title "Orders for #1 Eclipse Inc";	
 title2 "Retail Sales Only";
